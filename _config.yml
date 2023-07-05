@@ -23,7 +23,7 @@ title: Jay's blog # the main title
 tagline: Backend Developer # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  spring, spring boot, jpa, IT, 스프링
+  spring, spring boot, jpa, IT, 스프링, algorithm, 알고리즘
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://yuntaelee.github.io"
